@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2482a829-67a6-41d7-afec-500cc5a8e196" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nowy_dobry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nowy_dobry.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bubblesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/bubblesort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heapsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/heapsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots.py" beforeDir="false" afterPath="$PROJECT_DIR$/plots.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/quicksort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectionsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/selectionsort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +192,19 @@
       <option name="presentableId" value="Default" />
       <updated>1582492193164</updated>
     </task>
+    <task id="LOCAL-00001" summary="'Add new main settings'">
+      <created>1588104141908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588104141908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'Add new main settings'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'Add new main settings'" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="68" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582494561401">
@@ -212,6 +215,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="534" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582733298562" />
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1588104141492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588104141492" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1588100246557">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -224,22 +231,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582492863949" />
-    <state width="1515" height="171" key="GridCell.Tab.0.bottom" timestamp="1588103052218">
+    <state width="1515" height="171" key="GridCell.Tab.0.bottom" timestamp="1588104189902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588103052218" />
-    <state width="1515" height="171" key="GridCell.Tab.0.center" timestamp="1588103052217">
+    <state width="1515" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588104189902" />
+    <state width="1515" height="171" key="GridCell.Tab.0.center" timestamp="1588104189902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588103052217" />
-    <state width="1515" height="171" key="GridCell.Tab.0.left" timestamp="1588103052217">
+    <state width="1515" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588104189902" />
+    <state width="1515" height="171" key="GridCell.Tab.0.left" timestamp="1588104189902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588103052217" />
-    <state width="1515" height="171" key="GridCell.Tab.0.right" timestamp="1588103052217">
+    <state width="1515" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588104189902" />
+    <state width="1515" height="171" key="GridCell.Tab.0.right" timestamp="1588104189902">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588103052217" />
+    <state width="1515" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588104189902" />
     <state width="1515" height="260" key="GridCell.Tab.1.bottom" timestamp="1582733142982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
