@@ -16,4 +16,4 @@ def bubble_sort(arr, type_plot):
                     arr[i], arr[i + 1] = arr[i + 1], arr[i]
 
                     # Created typ with selected plot type
-                    plot(arr=arr, fallow_point=i+1, type_plot=type_plot, title='Bublee Sort')
+                    plot(arr=arr, fallow_point=i+1, type_plot=type_plot, title='Bubble Sort')

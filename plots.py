@@ -1,18 +1,8 @@
-from celluloid import Camera
+# Main settings for plots
+
 import matplotlib.pyplot as plt
 
-title = {'1': "Select Sort",
-         '2': "Quick Sort",
-         '3': 'Bubble Sort',
-         '4': 'Heap Sort'}
-
-
-# Setting the title to the chart
-def titles(a):
-    global title
-    title = title[a]
-    return title
-
+from celluloid import Camera
 
 # Plot settings and fallow point
 fig = plt.figure()
@@ -20,7 +10,7 @@ camera = Camera(fig)
 base = 0
 
 
-def plot(arr, fallow_point, type_plot):
+def plot(arr, fallow_point, type_plot, title):
     global base
 
     if type_plot == 'bar':
@@ -34,4 +24,3 @@ def plot(arr, fallow_point, type_plot):
     plt.title(title)
 
     camera.snap()
-

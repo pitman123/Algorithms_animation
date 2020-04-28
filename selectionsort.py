@@ -1,9 +1,10 @@
-# Python program for implementation of Selection Sort
+# Python program for implementation of SelectionSort
 
 from plots import plot
 
 
 def selection_sort(arr, type_plot):
+
     # Run through all data elements
     for i in range(len(arr)):
         # Find the minimum element
@@ -17,5 +18,5 @@ def selection_sort(arr, type_plot):
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
 
         # Created typ with selected plot type
-        plot(arr=arr, fallow_point=min_idx, type_plot=type_plot)
+        plot(arr=arr, fallow_point=min_idx, type_plot=type_plot, title='Selection Sort')
 

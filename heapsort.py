@@ -26,7 +26,7 @@ def heapify(arr, n, i, type_plot):
         # Heapify the root.
         heapify(arr, n, largest,  type_plot)
 
-        plot(arr=arr, fallow_point=largest, type_plot=type_plot)
+        plot(arr=arr, fallow_point=largest, type_plot=type_plot, title='Heap Sort')
 
 
 # The main function to sort an array of given size
