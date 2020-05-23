@@ -38,5 +38,3 @@ The aim of this project is to make sorting algorithms easier to visualize and un
 2. Select the type of graph
 4. Choose if you want to save
 
-### Contribute
-...
