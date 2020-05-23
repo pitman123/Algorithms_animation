@@ -5,9 +5,10 @@ import matplotlib.pyplot as plt
 
 from plots import camera
 from selectionsort import selection_sort
-from quicksort import quick_sort
 from bubblesort import bubble_sort
 from heapsort import heap_sort
+from quicksort import quick_sort
+
 
 # Set of all algorithms functions
 all_func_alg = {'1': selection_sort,
@@ -18,7 +19,7 @@ all_func_alg = {'1': selection_sort,
 
 
 def main_set(alg, alg_type):
-    # titles(alg_type)  # Set plot's title
+    """Main settings to display the graph"""
 
     func = all_func_alg[alg]  # Set the algorithm to show
 

@@ -5,7 +5,7 @@ from plots import plot
 
 def bubble_sort(arr, type_plot):
     # Traverse through all array elements
-    for l in range(len(arr)):
+    for j in range(len(arr)):
         # Compare all elements
         for i in range(len(arr)):
 
@@ -16,4 +16,4 @@ def bubble_sort(arr, type_plot):
                     arr[i], arr[i + 1] = arr[i + 1], arr[i]
 
                     # Created typ with selected plot type
-                    plot(arr=arr, fallow_point=i+1, type_plot=type_plot, title='Bubble Sort')
+                    plot(arr=arr, fallow_point=i + 1, type_plot=type_plot, title='Bubble Sort')

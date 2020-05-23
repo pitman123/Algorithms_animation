@@ -11,6 +11,8 @@ base = 0
 
 
 def plot(arr, fallow_point, type_plot, title):
+    """Function that creates two types of charts (bar and scatter)."""
+
     global base
 
     if type_plot == 'bar':

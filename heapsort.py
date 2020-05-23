@@ -14,7 +14,7 @@ def heapify(arr, n, i, type_plot):
     if l < n and arr[i] < arr[l]:
         largest = l
 
-        # See if right child of root exists and is
+    # See if right child of root exists and is
     # greater than root
     if r < n and arr[largest] < arr[r]:
         largest = r
@@ -33,7 +33,7 @@ def heapify(arr, n, i, type_plot):
 def heap_sort(arr, type_plot):
     n = len(arr)
 
-    # Build a maxheap.
+    # Build a maxheap
     for i in range(n, -1, -1):
         heapify(arr, n, i,  type_plot)
 
